@@ -2,7 +2,8 @@
 title: "p8105_homework_dmb2257"
 author: "Diane Benites"
 date: "2025-09-19"
-output: html_document
+output: github_document
+
 ---
 
 ```{r setup, include=FALSE}
